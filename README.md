@@ -1,2 +1,3 @@
-# Nova-Kitap-En-Son
+# Nova-Kitap
+
 Nova Kitap bir kitap alışveriş sitesidir.
